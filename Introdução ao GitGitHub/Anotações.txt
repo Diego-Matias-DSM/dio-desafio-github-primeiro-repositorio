@@ -1,0 +1,16 @@
+Primeiro Desafio de Projeto do Git/GitHub da Dio.
+
+Link para download do Git: (https://git-scm.com/download/win)
+
+Link para download do Ebook Pro Git (https://git-scm.com/book/pt-br/v2)
+
+Lista de comandos úteis do Git: (https://gist.github.com/leocomelli/2545add34e4fec21ec16#file-git-md)
+
+
+Informações:
+
+Git: Software para codificação
+GitHub: hospedeiro online de códigos ou programas do Git (“rede social”)
+GUI: interação com o usuário de forma gráfica
+CLI: interação com o usuário por linhas de comando (sem interface gráfica) 
+
